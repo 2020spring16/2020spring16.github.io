@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+	background-color: #E3F2D9
+}
+
+.title{
+	background-color: #C17577;
+	color:whitesmoke;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+.section{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
+
+.sub{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: #B65D5F
+}
+
+span {
+	text-decoration: overline underline;
+	font-weight: bold;
+	color:#97D398;
+}
