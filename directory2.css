@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-	background-color: #E3F2D9
+	background-color: #E3F2D9;
 }
 
 .title{
@@ -11,18 +11,20 @@ body{
 }
 
 .section{
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 }
 
 .sub{
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
-	color: #B65D5F
+	color: #B65D5F;
+	border: double;
 }
 
 span {
 	text-decoration: overline underline;
 	font-weight: bold;
 	color:#97D398;
+	line-height: normal;
 }
 
 
