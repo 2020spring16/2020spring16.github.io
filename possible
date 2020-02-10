@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body{
+	background-color: #E3F2D9;
+}
+
+.title{
+	background-image: url("https://i.ibb.co/D7t2ntt/pexels-photo-683039.jpg");
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 100px;
+	background-size: cover;
+	color:white;
+}
+
+.section{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+.sub{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: #B65D5F;
+	border: double;
+}
+
+span {
+	text-decoration: overline underline;
+	font-weight: bold;
+	color:darkseagreen;
+	line-height: 25px;
+}
+
+
+#small {
+	color: #FDE5E5;
+	padding: 0px;
+}
+
+span.hover{
+	color: yellow;
+}
