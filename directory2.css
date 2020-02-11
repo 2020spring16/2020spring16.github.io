@@ -1,12 +1,10 @@
 @charset "UTF-8";
 
 body{
-	  /* Old browsers */
   background: #141E30;
-  /* Chrome 10-25, Safari 5.1-6 */
   background: -webkit-linear-gradient(-45deg, antiquewhite, white);
-  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background: linear-gradient(-45deg, antiquewhite, white);
+  padding: 30px;
 }
 
 .title{
