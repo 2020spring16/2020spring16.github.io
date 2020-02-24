@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Netiquette</title>
+<link href="netiquetteRoby.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div>
+<h1 class="title">NETIQUETTE </h1>
+<h2 class = "subheading"> How to be polite on the internet.</h2>
+	<hr align="left" width="50%">
+	<h3 class = "excerpted"> These Core Rules of Netiquette are excerpted from the book <em>Netiquette</em> by Virginia Shea.</h3>
+	<a class= "pic" href="https://ibb.co/dDHfLvV"><img src="https://i.ibb.co/w42dwqP/image.png" alt="image" border="0"></a>
+	<ul>
+		<li> <a href= "#one"> Rule 1: Remember the Human</a></li>
+		<li><a href= "#two">Rule 2: Act how you would in real life, online</a></li>
+		<li><a href= "#four">Rule 4: Respect other people's time, service, and bandwidth.</a></li>
+		<li><a href= "#five">Rule 5: Make yourself look good online</a></li>
+		<li><a href= "#six">Rule 6: Share your knowledge</a></li>
+		<li><a href= "#seven">Rule 7: Help keep "flame wars" and malice at bay</a></li>
+		<li><a href= "#eight">Rule 8: Respect other's privacy</a></li>
+		<li><a href= "#nine">Rule 9: Don't abuse your power</a></li>
+		<li><a href= "#ten">Rule 10: Be forgiving of other's mistakes</a></li>
+	</ul>
+	<div class = "circle"></div>
+	<hr align="left" width="50%">
+	<span>
+	<h4> <a id= "one">remember the human.</a></h4>
+	<p>	Remember the golden rule: Do unto others as you'd have other do unto you. The prime directive of Netiquette is thus: recognize that there are other humans on the internet who can be greatly affected by your actions, in a good way or bad.</p>
+	
+	<h4> <a id= "two">act how you would in real life, online.</a></h4>
+	<p>Be ethical and do your best to act within the laws of society and cyberspace. Standards of behavior may be different in some areas of cyberpsace, but they are not lower than in real life.</p>
+	<h4> <a id= "three">know your surroundings.</a></h4>
+	<p>The author suggests that you "Lurk before you leap." In other words, get to know where you are in cyberspace, before participating. What's perfectly acceptable in one area may be dreadfully rude in another. Get a sense of how the people who are already there act.</p>
+	<h4> <a id= "four">respect other people's time, service, and bandwidth.</a></h4> <p>You are not the center of cyberspace. When you send an email or post to a discussion group, you're (hoping) to take up other people's time, and it's your responsibility that their time isn't wasted. Bandwidth is the information-carrying capacity of the wires and chanels that connect everyone in cyberpsace. There's a limit to how much data can be stored, so don't spam post. Be careful with mailing lists, as they may be a waste of time for others. Think twice before adding that person to the email.</p>
+	<h4> <a id= "five">make yourself look good online.</a></h4>
+	<p>Depending on where you are in cyberspace, use the appropriate grammar. Especially today, perfect grammar is not required to post. Shortening words, exempting punctuation (to convey a feeling) and other "grammar errors" are perfectly acceptable, and at times even encouraged. However, in serious places, use correct grammar. Also, know what you're talking about and make sense. Before posting, check your facts about whatever you're talking about. Be pleasant and polite, and please don't be confrontational for the sake of confrontation.  </p>
+	<h4> <a id= "six">share your knowledge.</a></h4>
+	<p>Don't be afraid to share what you know! The Internet itself was founded and grew because scientists wanted to share information. Slowly, the rest of us got in on the act. Of course, make sure the information you're changing isn't wrong, but sharing your knowledge is fun and makes the world a better place. </p>
+	<h4> <a id= "seven">help keep "flame wars" and malice at bay.</a></h4>
+	<p>"Flaming" is what people do when they express a stronlgy held opinion without holding back any emotion, sort of a rant. While Netiquette doesn't forbid flaming (it's a long-standing tradition that is both fun to write and read), Netiquette does forbit the perpuetation fo flame wars -- series of angry letters thrown back and forth between people. It can destroy the fun and tone of discussion group, comment section, etc. It's unfair to the other people there. And while initially, flame wars can be amusing, they get boring very quickly to those not involved. Flame wars also violate Rule 4, because they're an unfair monopolization of bandwidth.</p>
+	<h4> <a id= "eight">respect other's privacy.</a></h4>
+	<p>This is just etiquette, let alone Netiquette. There's not much more to say- respect other people's privacy, and don't be nosy.</p>
+	<h4> <a id= "nine">don't abuse your power.</a></h4>
+	<p>This has two parts. For one, the power of using the internet is a gift, and no one should abuse it. For the second part, if you have more power than others on the internet (like an expert in an office or a system administrator), don't take advantage of it. Knowing more than other or having more power than them doesn't give you the right to lord over them.</p>
+	<h4> <a id= "ten">be forgiving of other's mistakes.</a></h4>
+	<p>Everyone makes mistakes. Everyone was a network newbie once. Some may not even know these rules of Netiquette. So, when someone makes a mistake, be kind about it. If it's a minor error, you may not need to say anything. Even if you feel strongly about it, think twice before reacting. Having good manner yourself doens't give you license to correct everyone else. And if you do decide to inform someone of a mistake, message them <em>privately</em> and politely point out their mistake. Give people the benefit of the doubt; assume they just don't know any better. And never be arrgoant or self-righteous about it. </p>
+	
+	</span>
+	
+		
+	<hr align="left" width="50%">
+	
+	<h5>copyright #16, 2020</h5>
+	
+	
+</div>	
+</body>
+</html>
