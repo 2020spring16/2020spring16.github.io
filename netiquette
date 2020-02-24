@@ -1,0 +1,81 @@
+@charset "UTF-8";
+body{
+	 /* Old browsers */
+  background: bisque;
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(-45deg, #ABD3B3,#fff );
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(-45deg, #ABD3B3, #fff);
+	padding: 30px;
+	
+	border: 5px ridge white;
+}
+
+.title {
+	color: #B8E9CF;
+	text-align: center;
+	background-image: url("https://i.ibb.co/KXq65Cw/photo-1446071103084-c257b5f70672.jpg");
+	text-shadow: 5px 5px 0px #000;
+	width: 700px;
+	font-size: 100px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	padding-bottom: 0px;
+}
+
+
+.excerpted {
+	color: grey;
+	opacity: 0.5;
+}
+
+h5{
+	color:#274F31;
+}
+
+.pic{
+	float:right;
+	opacity: 0.5;
+}
+
+#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten{
+	color: #88AA97;
+	font-size: 40px;
+	text-align: left;
+}
+/* https://css-tricks.com/3d-text-tower/ */
+/* https://michalsnik.github.io/aos/ */
+
+.url {cursor: url(myBall.cur),auto;}
+
+a:not(h4){
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #88AA97;
+	text-decoration: none;
+}
+
+a:visited{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: black;
+	text-decoration: none;
+}
+
+a:hover{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	text-shadow: 1px 1px 3px #ABD3B3;
+	text-decoration: underline;
+	text-decoration-color: #3A7E57;
+}
+
+
+a:active{
+	color:white;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	text-decoration: underline;
+	text-decoration-color: #3A7E57;
+}
+
+.subheading{
+	font-style: italic;
+	color: #88AA97;
+	font-size: 40px;
+}
