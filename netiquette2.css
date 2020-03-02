@@ -34,20 +34,26 @@ h5{
 
 .pic{
 	float:right;
+	position: absolute;
 	opacity: 0.5;
 	width: 40px;
-	height: 40px;
-	right: 100px;
-	
+	height:40px;
+	right: 700px;
+	z-index: -1;
 }
 
 #one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten{
 	color: #88AA97;
 	font-size: 40px;
 	text-align: left;
+	z-index: 10;
 }
 /* https://css-tricks.com/3d-text-tower/ */
 /* https://michalsnik.github.io/aos/ */
+
+p{
+	z-index: 9;
+}
 
 .url {cursor: url(myBall.cur),auto;}
 
