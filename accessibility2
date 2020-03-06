@@ -22,7 +22,7 @@ body{
 color: #FFFFFF;
 }
 
-div{
+.benefits{
 	align-content: right;
   background-color: #518C69;
   width: 700px;
@@ -32,8 +32,26 @@ color: #FFFFFF;
 	
 }
 
-li:not(#not){
+.disability{
+	color: white;
+	text-decoration: none;
+}
+
+.dis{
+	align-content: right;
+  background-color: #518C69;
+	text-decoration:none;
+  width: auto;
+padding-top: 5px;
+padding-bottom: 5px;
+font-family: 'Oswald', sans-serif;
+color: #FFFFFF;
+	text-transform: uppercase;
+}
+
+li:not(.disability){
   color: #FFF;
+	text-decoration: none;
   font-family: 'Oswald', sans-serif;
   font-size: 16px;
   font-weight: 300;
@@ -42,10 +60,12 @@ li:not(#not){
   width: 200px;
 }
 
-#no, #n, #o{
-	color: #FFF;
-	text-decoration:none;
+
+a{
+	color:#fff;
+	text-decoration: none;
 }
+
 
 a:visited{
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
@@ -53,26 +73,8 @@ a:visited{
 	text-decoration: none;
 }
 
-a:hover:not(#no, #n, #o){
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
-	text-shadow: 1px 1px 3px #ABD3B3;
-	text-decoration: underline;
-	text-decoration-color: #3A7E57;
-}
 
-#o:hover{
-	text-shadow: 1px 1px 3px #ABD3B3;
-	text-decoration: underline;
-	text-decoration-color: #3A7E57;
-}
-
-#n:hover{
-	text-shadow: 1px 1px 3px #ABD3B3;
-	text-decoration: underline;
-	text-decoration-color: #3A7E57;
-}
-
-#no:hover{
+a:hover{
 	text-shadow: 1px 1px 3px #ABD3B3;
 	text-decoration: underline;
 	text-decoration-color: #3A7E57;
