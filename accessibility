@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Accessiblity</title>
+<link href="2020spring16.github.io/accessibility2.css" rel="stylesheet" type="text/css">
+</head>
+	<div class = "header">
+		<ul>
+			<li><a id = "no" href = "https://2020spring16.github.io/directory.html">home</a></li>  
+			<li><a id = "n" href = "https://2020spring16.github.io/netiquette.html">netiquette</a></li>     
+			<li><a id = "o" href = "https://2020spring16.github.io/accessibility.html"> accessibility </a> </li>     
+			<li>copyright</li>
+		</ul>
+	</div>
+	
+<body>
+<h1 class = "title">ACCESSIBILITY</h1>
+<h2 class = "subheading"> How to be all-inclusive on the internet.</h2>
+	
+<h3 class = "heading">What is web-accessibility?</h3>
+	<p>Web-accessibility is making sure that everyone can enjoy your site on the internet. Whether you have impaired eyesight or a different device, accessibility adds fail-safes for those who need it.</p>
+<h3 class = "heading">Why do you need an accessible website?</h3>
+<p>There are three key benefits of having an accessible website:</p>
+	<div>
+	<ol>
+	<li>Your website will comply with your country's equality law</li>
+	<li>You'll save money by working in accessiblity on your own terms</li>
+		<li>You'll make more money by expanding your customer base, sharing your website.</li>
+	</ol>
+	</div>
+<p> On top of that, there's the fact that you can't really put a price on remembering those with disability.</p>
+
+<h3 class = "heading">The Common Sense Sweet Shop</h3>
+<p>Still confused on the importance of accessibility? Here's a more physical example. </p>
+<p>Imagine that you run a real business - a small sweet shop. You've got your start, and people are walking in off the street to buy your goods; things are going swell! You'd love to do even better. Let's take a look inside your shop. Are guide dogs welcome inside? Is there a ramp, or a clear doorway for those with wheelchairs to get through?</p>
+<p>Imagine a shop that didn't provide those with disability into the shop. Not only is the owner a terrible person, they'd soon face legal trouble!</p>
+	<p>Let's take this a little further. Are the sweet jars organized so they're easily located? Are the labels written neatly and clearly? You wouldn't imagine running a business any other way.</p>
+	<p>Frankly, having a website is no different. Chances are, you have already factored in some accessibility in your website, just through common sense. You might want more help though, and that's what this page is for!</p>
+	
+<h3 class = "heading">The Inacessible Sweet Shop</h3>
+	<p>Let's imagine a sweet shop across the road from yours. At the front door, there's a huge step that only the tallest people can get over, the owner will kick out any guide dogs, and the lights are always off to save money. Even if you managed to get in with a flashlight, all the candy is scattered on the floor, jars no where to be seen. </p>
+	<p>You would love to talk to the manager, but he's nowhere to be found. He might be there in the dark, or he might not, and there are no set operating hours for you to contact him. He's probably hiding from annoyed ex-customers and the lawyers of several charities.</p>
+	<p>How long do you think this business will last?</p>
+	
+<h3 class ="heading">Do I have users with disabilites?</h3>
+	<p>Of course! Disability affects 19% of working age people in the UK and 19% of all Americans.</p>
+	<p>Disability on the internet includes things like:</p>
+	<ol>
+	<li>Problems with sight (like colour-blindness)</li>
+	</ol>
+</body>
+</html>
