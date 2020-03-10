@@ -7,9 +7,9 @@
 </head>
 	<div class = "header">
 		<ul>
-			<li><a id = "no" href = "https://2020spring16.github.io/directory.html">home</a></li>  
-			<li><a id = "n" href = "https://2020spring16.github.io/netiquette.html">netiquette</a></li>     
-			<li><a id = "o" href = "https://2020spring16.github.io/accessibility.html"> accessibility </a> </li>     
+			<li><a href = "https://2020spring16.github.io/directory.html">home</a></li>  
+			<li><a href = "https://2020spring16.github.io/netiquette.html">netiquette</a></li>     
+			<li><a href = "https://2020spring16.github.io/accessibility.html"> accessibility </a> </li>     
 			<li>copyright</li>
 		</ul>
 	</div>
@@ -22,7 +22,7 @@
 	<p>Web-accessibility is making sure that everyone can enjoy your site on the internet. Whether you have impaired eyesight or a different device, accessibility adds fail-safes for those who need it.</p>
 <h3 class = "heading">Why do you need an accessible website?</h3>
 <p>There are three key benefits of having an accessible website:</p>
-	<div>
+	<div class = "benefits">
 	<ol>
 	<li>Your website will comply with your country's equality law</li>
 	<li>You'll save money by working in accessiblity on your own terms</li>
@@ -45,9 +45,27 @@
 	
 <h3 class ="heading">Do I have users with disabilites?</h3>
 	<p>Of course! Disability affects 19% of working age people in the UK and 19% of all Americans.</p>
-	<p>Disability on the internet includes things like:</p>
-	<ol>
-	<li>Problems with sight (like colour-blindness)</li>
-	</ol>
+	<p>Disability on the internet includes problems with things like:</p>
+	<div class ="dis">
+	<ul>
+		<li class ="disability">Sight</li>
+		<li class ="disability">Using a mouse or keyboard</li>
+		<li class ="disability">Hearing</li>
+		<li class ="disability">Reading and/or understanding</li>
+	</ul>
+		</div>
+	<p>But, web accessibility also helps people who:</p>
+	<div class ="dis">
+	<ul>
+		<li class ="disability">Have a slow internet connection</li>
+		<li class ="disability">Have a small screen or unusual device</li>
+		<li class ="disability">Can't listen to sound where they are</li>
+		<li class ="disability">Use an old web browser or operating system</li>
+	</ul>
+		</div>
+<h3 class ="heading">Find out more</h3>
+	<button type="button" onclick="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Internet</button>
+	<button type="button" onclick="https://www.section508.gov/summary-section508-standards">Section 508 Standards</button>
+	<button type="button" onclick="https://www.w3.org/WAI/ER/tools/">List of Web Accessibility Evaluation Tools</button>
 </body>
 </html>
