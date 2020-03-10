@@ -7,12 +7,18 @@ body{
   background: -webkit-linear-gradient(-45deg, #ABD3B3,#fff );
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background: linear-gradient(-45deg, #ABD3B3, #fff);
-	padding: 30px;
+
 	border: 5px ridge white;
 }
 
+#container{
+	padding: 30px;
+	margin-top: -30px;
+}
 
  .header{
+	 margin-left: -20px;
+	 margin-top: -20px;
 	align-content: right;
   background-color: #518C69;
   position: fixed;
@@ -41,12 +47,25 @@ color: #FFFFFF;
 	align-content: right;
   background-color: #518C69;
 	text-decoration:none;
-  width: auto;
 padding-top: 5px;
 padding-bottom: 5px;
 font-family: 'Oswald', sans-serif;
 color: #FFFFFF;
 	text-transform: uppercase;
+	width: 700px;
+}
+
+button{
+	 background-color: #2E6A3A;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 
 li:not(.disability){
@@ -100,6 +119,11 @@ a:active{
 	padding-bottom: 0px;
 }
 
+p{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+}
+
 .subheading{
 	font-style: italic;
 	color: #88AA97;
@@ -110,4 +134,3 @@ a:active{
 	font-size: 30px;
 	color:#647C6F
 }
- 
