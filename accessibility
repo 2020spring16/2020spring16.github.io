@@ -69,6 +69,9 @@
 	<button type="button" onclick="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Internet</button>
 	<button type="button" onclick="https://www.section508.gov/summary-section508-standards">Section 508 Standards</button>
 	<button type="button" onclick="https://www.w3.org/WAI/ER/tools/">List of Web Accessibility Evaluation Tools</button>
+	<br>
+		<br>
+	<button type="button" onclick=".title">Back to the Top</button>
 			</div>
 </body>
 </html>
