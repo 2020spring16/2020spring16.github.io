@@ -16,10 +16,10 @@ body{
 	margin-top: -30px;
 }
 
+
  .header{
 	 margin-left: -20px;
 	 margin-top: -20px;
-	align-content: right;
   background-color: #518C69;
   position: fixed;
   width: 100%;
@@ -29,7 +29,6 @@ color: #FFFFFF;
 }
 
 .benefits{
-	align-content: right;
   background-color: #518C69;
   width: 700px;
 padding-top: 5px;
@@ -44,7 +43,6 @@ color: #FFFFFF;
 }
 
 .dis{
-	align-content: right;
   background-color: #518C69;
 	text-decoration:none;
 padding-top: 5px;
