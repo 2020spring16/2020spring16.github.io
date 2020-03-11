@@ -66,6 +66,11 @@ button{
   cursor: pointer;
 }
 
+button:hover{
+	background-color: #5AA168;
+}
+
+
 li:not(.disability){
   color: #FFF;
 	text-decoration: none;
