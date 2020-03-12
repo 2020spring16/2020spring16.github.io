@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 body{
 	 /* Old browsers */
   background: bisque;
@@ -6,10 +7,40 @@ body{
   background: -webkit-linear-gradient(-45deg, #ABD3B3,#fff );
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background: linear-gradient(-45deg, #ABD3B3, #fff);
-	padding: 30px;
-	
+
 	border: 5px ridge white;
 }
+
+#container{
+	padding: 30px;
+	margin-top: -30px;
+}
+
+
+ .header{
+	 margin-left: -20px;
+	 margin-top: -20px;
+  background-color: #518C69;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+	padding: 0px;
+color: #FFFFFF;
+}
+
+
+
+.head{
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 200px;
+text-decoration: none;
+}
+
 
 .title {
 	color: #B8E9CF;
@@ -39,21 +70,29 @@ h5{
 	height: 70px;
 }
 
-#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten{
-	color: #88AA97;
-	font-size: 40px;
-	text-align: left;
-}
+
 /* https://css-tricks.com/3d-text-tower/ */
 /* https://michalsnik.github.io/aos/ */
 
 .url {cursor: url(myBall.cur),auto;}
 
-a:not(h4){
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
-	color: #88AA97;
+li:not(.list){
+  color: #FFF;
+	text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 200px;
+}
+
+
+.head{
+	color:#fff;
 	text-decoration: none;
 }
+
 
 a:visited{
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
@@ -61,8 +100,8 @@ a:visited{
 	text-decoration: none;
 }
 
+
 a:hover{
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 	text-shadow: 1px 1px 3px #ABD3B3;
 	text-decoration: underline;
 	text-decoration-color: #3A7E57;
@@ -76,8 +115,14 @@ a:active{
 	text-decoration-color: #3A7E57;
 }
 
+
 .subheading{
 	font-style: italic;
 	color: #88AA97;
 	font-size: 40px;
+}
+
+.heading{
+	font-size: 30px;
+	color:#647C6F
 }
