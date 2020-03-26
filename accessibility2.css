@@ -1,60 +1,60 @@
 @charset "UTF-8";
 
-body{
-	 /* Old browsers */
+body {
+  /* Old browsers */
   background: bisque;
   /* Chrome 10-25, Safari 5.1-6 */
-  background: -webkit-linear-gradient(-45deg, #ABD3B3,#fff );
+  background: -webkit-linear-gradient(-45deg, #ABD3B3, #fff);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background: linear-gradient(-45deg, #ABD3B3, #fff);
 
-	border: 5px ridge white;
+  border: 5px ridge white;
 }
 
-#container{
-	padding: 30px;
-	margin-top: -30px;
+#container {
+  padding: 30px;
+  margin-top: -30px;
 }
 
 
- .header{
-	 margin-left: -20px;
-	 margin-top: -20px;
+.header {
+  margin-left: -20px;
+  margin-top: -20px;
   background-color: #31523e;
   position: fixed;
   width: 100%;
   z-index: 10;
-	padding: 0px;
-color: #FFFFFF;
+  padding: 0px;
+  color: #FFFFFF;
 }
 
-.benefits{
+.benefits {
   background-color: #31523e;
   width: 700px;
-padding-top: 5px;
-padding-bottom: 5px;
-color: #FFFFFF;
-	
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #FFFFFF;
+
 }
 
-.disability{
-	color: white;
-	text-decoration: none;
+.disability {
+  color: white;
+  text-decoration: none;
 }
 
-.dis{
-  background-color: #518C69;
-	text-decoration:none;
-padding-top: 5px;
-padding-bottom: 5px;
-font-family: 'Oswald', sans-serif;
-color: #FFFFFF;
-	text-transform: uppercase;
-	width: 700px;
+.dis {
+  background-color: #31523e;
+  text-decoration: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: 'Oswald', sans-serif;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  width: 700px;
 }
 
-button{
-	 background-color: #2E6A3A;
+button {
+  background-color: #2E6A3A;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -66,14 +66,14 @@ button{
   cursor: pointer;
 }
 
-button:hover{
-	background-color: #5AA168;
+button:hover {
+  background-color: #5AA168;
 }
 
 
-li:not(.disability){
+li:not(.disability) {
   color: #FFF;
-	text-decoration: none;
+  text-decoration: none;
   font-family: 'Oswald', sans-serif;
   font-size: 16px;
   font-weight: 300;
@@ -83,57 +83,57 @@ li:not(.disability){
 }
 
 
-a:link{
-	color:#fff;
-	text-decoration: none;
+a:link {
+  color: #fff;
+  text-decoration: none;
 }
 
 
-a:visited{
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
-	color: #bac8ff;
-	text-decoration: none;
+a:visited {
+  font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+  color: #bac8ff;
+  text-decoration: none;
 }
 
 
-a:hover{
-	text-shadow: 1px 1px 3px #ABD3B3;
-	text-decoration: underline;
-	text-decoration-color: #3A7E57;
+a:hover {
+  text-shadow: 1px 1px 3px #ABD3B3;
+  text-decoration: underline;
+  text-decoration-color: #3A7E57;
 }
 
 
-a:active{
-	color:#bac8ff;
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
-	text-decoration: underline;
-	text-decoration-color: #3A7E57;
+a:active {
+  color: #bac8ff;
+  font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+  text-decoration: underline;
+  text-decoration-color: #3A7E57;
 }
 
 
 .title {
-	color: #B8E9CF;
-	text-align: center;
-	background-image: url("https://i.ibb.co/KXq65Cw/photo-1446071103084-c257b5f70672.jpg");
-	text-shadow: 5px 5px 0px #000;
-	width: 800px;
-	font-size: 100px;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
-	padding-bottom: 0px;
+  color: #B8E9CF;
+  text-align: center;
+  background-image: url("https://i.ibb.co/KXq65Cw/photo-1446071103084-c257b5f70672.jpg");
+  text-shadow: 5px 5px 0px #000;
+  width: 800px;
+  font-size: 100px;
+  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+  padding-bottom: 0px;
 }
 
-p{
-	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-size: 18px;
+p {
+  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-size: 18px;
 }
 
-.subheading{
-	font-style: italic;
-	color: #88AA97;
-	font-size: 40px;
+.subheading {
+  font-style: italic;
+  color: #88AA97;
+  font-size: 40px;
 }
 
-.heading{
-	font-size: 30px;
-	color:#647C6F
+.heading {
+  font-size: 30px;
+  color: #647C6F
 }
