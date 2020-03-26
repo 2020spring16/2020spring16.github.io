@@ -83,7 +83,7 @@ li:not(.disability){
 }
 
 
-a{
+a:link{
 	color:#fff;
 	text-decoration: none;
 }
