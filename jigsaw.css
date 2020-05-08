@@ -139,26 +139,28 @@ p {
 }
 
 
-thead th {
-  background: black;
-  color: #FFF;
-  font-family: "Times New Roman";
-  font-size: 16px;
-  font-weight: 100;
-  text-transform: uppercase;
-}
-
-tr {
-  background:#827fb5;
-  border: 1px solid #000;
-  margin-bottom: 5px;
-}
-
 th, td {
-  font-family: "Lato";
+  font-family: Georgia, serif;
   font-weight: 400;
   padding: 20px;
   text-align: left;
   font-size: 18px;
   width: 33.3333%;
 }
+
+thead th {
+  background: black;
+  color: #FFF;
+  font-family: Times, Times New Roman, Georgia, serif;
+  font-size: 16px;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+
+tr {
+  background: #827fb5;
+  border: 1px solid #000;
+  margin-bottom: 5px;
+}
+
+
