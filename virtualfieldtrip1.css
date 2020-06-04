@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: "Times New Roman";
+  font-family: "Times New Roman", Times, serif;
   padding: 10px;
   background: #8c976b;
 }
