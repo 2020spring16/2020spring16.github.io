@@ -61,7 +61,7 @@ body {
 
 /* Add a card effect for articles */
 .card {
-background-color: #f1f1f1;
+  background-color: #f1f1f1;
   padding: 20px;
   width: 500px;
   border-left: 100px;
@@ -69,7 +69,6 @@ background-color: #f1f1f1;
   margin-top: 20px;
   margin-left: 100px;
   margin-right:100px;
-
 
 }
 
@@ -84,12 +83,11 @@ background-color: #f1f1f1;
 
 .imgleft{
   float: left;
-  margin-right:100px;
+
 }
 
 .imgright{
-  float: right;
-  margin-left:100px;
+  float: right
   
 }
 
