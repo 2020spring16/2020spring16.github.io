@@ -60,25 +60,10 @@ body {
 }
 
 /* Add a card effect for articles */
-.card {
-  background-color: #f1f1f1;
+
+.card{
+  background: white;
   padding: 20px;
-  width: 500px;
-  border-left: 100px;
-  margin-top: 20px;
-  margin-top: 20px;
-  margin-left: 100px;
-  margin-right:100px;
-
-}
-
-
-/* Footer */
-.footer {
-  padding: 20px;
-  text-align: center;
-  background: #ddd;
-  margin-top: 20px;
 }
 
 .imgleft{
