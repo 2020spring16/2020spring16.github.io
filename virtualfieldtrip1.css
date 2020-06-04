@@ -3,21 +3,12 @@
 }
 
 body {
-  font-family: "Times New Roman", Times, serif;
+      font-family: "Times New Roman", Times, serif;
   padding: 10px;
   background: #8c976b;
 }
 
-.column {
-  float: left;
-  padding: 10px;
-}
 
-
-/* Middle column */
-.column.middle {
-  width: 50%;
-}
 
 
 /* Header/Blog Title */
@@ -58,12 +49,21 @@ body {
   background-color: #ddd;
   color: black;
 }
+.footer {
+  padding: 10px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
 
 /* Add a card effect for articles */
 
 .card{
+  margin-top: 10px;
   background: white;
   padding: 20px;
+  height:300px;
     display: block;
   margin-left: auto;
   margin-right: auto;
