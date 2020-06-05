@@ -67,14 +67,12 @@ body {
   float: left;
   height: 300px; 
   width: auto;
-  margin-bottom: 10px;
 }
 
 .imgright{
-  float: right
+  float: right;
   height: 300px; 
   width: auto;
-  margin-bottom: 10px;
 }
 
 a:visited {
