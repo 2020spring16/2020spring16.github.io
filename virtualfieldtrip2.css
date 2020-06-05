@@ -80,6 +80,10 @@ a:visited {
   text-decoration: none;
 }
 
+a:link:not(.topnav){
+  color:#f2f2f2;
+}
+
 
 a:hover {
   text-shadow: 1px 1px 3px #ABD3B3;
