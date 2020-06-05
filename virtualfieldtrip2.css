@@ -105,13 +105,9 @@ html, body {
   float: left;
 }
 
-.imgleft{
-  float: left;
-
-}
-
 .imgright{
   float: right
+    margin-right= 20px;
   
 }
 
