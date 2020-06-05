@@ -69,11 +69,15 @@ body {
 
 .imgleft{
   float: left;
+    height: 300px; 
+  width: auto;
 
 }
 
 .imgright{
-  float: right
+  float: right;
+      height: 300px; 
+  width: auto;
   
 }
 
