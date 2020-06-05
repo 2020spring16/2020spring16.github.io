@@ -9,50 +9,9 @@ body {
 }
 
 
-a:visited {
-  font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
-  color: #bac8ff;
-  text-decoration: none;
-}
 
 
-a:hover {
-  text-shadow: 1px 1px 3px #ABD3B3;
-  text-decoration: underline;
-  text-decoration-color: #3A7E57;
-}
-
-
-
-
-html, body {
-   margin:0;
-   padding:0;
-   height:100%;
-}
-#container {
-   min-height:100%;
-   position:relative;
-}
-#header {
-   background:#ff0;
-   padding:10px;
-}
-#body {
-   padding:10px;
-   padding-bottom:60px;   /* Height of the footer */
-}
-#footer {
-   position:absolute;
-   bottom:0;
-   width:100%;
-   height:30px;   /* Height of the footer */
-   padding: 5px;
-  text-align: center;
-  background: #333;
-  margin-top: 20px;
-  color: #f2f2f2;
-}
+/* Header/Blog Title */
 .header {
   padding: 30px;
   text-align: center;
@@ -74,6 +33,7 @@ html, body {
   overflow: hidden;
   background-color: #333;
 }
+
 /* Style the topnav links */
 .topnav a {
   float: left;
@@ -89,6 +49,13 @@ html, body {
   background-color: #ddd;
   color: black;
 }
+.footer {
+  padding: 5px;
+  text-align: center;
+  background: #333;
+  margin-top: 20px;
+  color: #f2f2f2;
+}
 
 
 /* Add a card effect for articles */
@@ -101,15 +68,26 @@ html, body {
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
+  width: 50%;
+}
+
+.imgleft{
   float: left;
+
 }
 
 .imgright{
   float: right
-    margin-right= 20px;
-  
+}
+
+a:visited {
+  color: #8c976b;
+  text-decoration: none;
 }
 
 
-
+a:hover {
+  text-shadow: 1px 1px 3px #ABD3B3;
+  text-decoration: underline;
+  text-decoration-color: #3A7E57;
+}
