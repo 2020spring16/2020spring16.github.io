@@ -80,9 +80,6 @@ a:visited {
   text-decoration: none;
 }
 
-a:link:not(.topnav){
-  color:#333;
-}
 
 
 a:hover {
