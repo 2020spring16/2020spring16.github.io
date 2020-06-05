@@ -80,3 +80,15 @@ body {
   float: right
   
 }
+
+a:visited {
+  color: #8c976b;
+  text-decoration: none;
+}
+
+
+a:hover {
+  text-shadow: 1px 1px 3px #ABD3B3;
+  text-decoration: underline;
+  text-decoration-color: #3A7E57;
+}
